@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A6619069746%2C%22first_name%22%3A%22Tyler%22%2C%22last_name%22%3A%22%F0%9F%90%A4%20Gra-Gra%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-3860945727013422140&chat_type=sender&auth_date=1729102197&hash=f128a554c8b60a4d8b948609737e5d38c7c07f9fb33b9d2a10222ecd14743bdb
